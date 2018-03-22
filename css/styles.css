@@ -1,0 +1,15 @@
+select {
+  margin-bottom: 20px;
+}
+
+#turtle {
+  display: none;
+}
+
+#snake {
+  display: none;
+}
+
+#insect {
+  display: none;
+}
